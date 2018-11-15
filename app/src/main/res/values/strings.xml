@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="login">Log in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="camera_disable">Your camera isn\'t accessible</string>
+    <string name="error_corrupted_image">Error, your image is corrupted</string>
+    <string name="error_upload_image">Error, can\'t upload your image</string>
+    <string name="error_camera_disabled">Error, can\'t open your camera</string>
+    <string name="error_favorites">Error, can\'t add to favorites</string>
+    <string name="api_key">47ec1c4d2e5d41d</string>
+</resources>
